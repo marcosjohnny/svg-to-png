@@ -37,3 +37,7 @@ button:hover {
 #result-svg, #result-png {
     margin: 20px;
 }
+
+#result-svg {
+    visible: false;
+}
