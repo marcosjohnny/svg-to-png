@@ -34,10 +34,13 @@ button:hover {
     font-size: 24px;
 }
 
-#result-svg, #result-png {
+#result-png {
     margin: 20px;
 }
 
 #result-svg {
+    margin: 0;
     visibility: hidden;
+    width: 0;
+    height: 0;
 }
