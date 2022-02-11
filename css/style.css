@@ -39,5 +39,5 @@ button:hover {
 }
 
 #result-svg {
-    visible: false;
+    visibility: hidden;
 }
