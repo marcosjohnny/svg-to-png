@@ -21,7 +21,7 @@ textarea, input {
 
 button {
     border-color: black;
-    margin-bottom: 20px;
+    margin: 20px;
     display: flex;
     height: 50px;
     width: 200px;
